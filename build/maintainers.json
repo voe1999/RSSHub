@@ -174,9 +174,6 @@
   "/500px/tribe/set/:id": [
     "TonyRL"
   ],
-  "/500px/user/works/:id": [
-    "TonyRL"
-  ],
   "/50forum/": [
     "sddiky"
   ],
@@ -2631,6 +2628,9 @@
   "/hit/today/:category": [
     "ranpox"
   ],
+  "/hitcon/zeroday/vulnerability/:status?": [
+    "KarasuShin"
+  ],
   "/hitsz/article/:category?": [
     "xandery-geek"
   ],
@@ -3795,7 +3795,8 @@
   "/nikkei/": [],
   "/nikkei/index": [],
   "/nikkei/:category/:article_type?": [
-    "Arracc"
+    "Arracc",
+    "ladeng07"
   ],
   "/nikkei/asia": [
     "rainrdx"
@@ -6010,6 +6011,9 @@
   "/wnacg/tag/:tag": [
     "KenMizz"
   ],
+  "/wordpress/:url?/:filter{.+}?": [
+    "nczitzk"
+  ],
   "/worldjournal/:path{.+}?": [],
   "/woshipm/popular/:range?": [
     "WenryXu"
@@ -6468,7 +6472,7 @@
   "/zhonglun/research/article/:language{[a-zA-Z0-9-]+}?": [
     "nczitzk"
   ],
-  "/zhubai/:id": [
+  "/zhubai/posts/:id": [
     "naixy28"
   ],
   "/zhubai/top20": [
